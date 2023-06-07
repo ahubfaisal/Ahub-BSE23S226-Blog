@@ -31,14 +31,17 @@ Here's a bulleted list showcasing some of my favorite hobbies:
 
 ## 2. **Some of My Images**
 
+
 <div align="center">
-  <img src="./img%20(4).jpeg" alt="At Beach" width="710px" style="margin: 10px;">
-  <img src="./img%20(3).jpeg" alt="Formal" width="300px" style="margin: 10px;">
-  <img src="./img%20(1).jpeg" alt="Random Selfie" width="400px" style="margin: 10px;">
-  <img src="./img%20(2).jpeg" alt="Weekend" width="400px" style="margin: 10px;">
+  <img src="https://drive.google.com/uc?id=12vtnJSVk1r8f-Fz7dveghWo8sNv57usG" alt="Random Selfie" width="710px" style="margin: 10px;">
+  <img src="https://drive.google.com/uc?id=1WSdAE37OMdrOddpNWeuzoy-b49nZrM3g"alt="Weekend" width="300px" style="margin: 10px;">
+  <img src="https://drive.google.com/uc?id=1SveqUZmlN42LcvEK4CoN9nPPL4RRAVDE" alt="At Beach" width="400px" style="margin: 10px;">
+  <img src="https://drive.google.com/uc?id=15eCh_WtZCQHihWBQD5LCdyaT34_v2fQF" alt="Formal" width="400px" style="margin: 10px;">
 </div>
 
 ---
+
+
 
 That wraps up our exploration of various elements and formatting techniques using Markdown! I hope you found this post informative and valuable. If you have any questions or would like to share your thoughts, please don't hesitate to leave a comment below.
 
